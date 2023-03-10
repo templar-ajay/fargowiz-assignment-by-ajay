@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ajay Kumar",
+    "email": "ajaychaudharyrajasthan@gmail.com",
+    "phone": "+91 8696260393",
+    "img": "https://picsum.photos/id/9/300"
+  },
+  {
+    "id": 2,
+    "name": "Lokesh Sherawat",
+    "email": "lokeshsherawat@icloud.com",
+    "phone": "+91 6377733916",
+    "img": "https://picsum.photos/id/10/300"
+  },
+  {
+    "id": 3,
+    "name": "Paul Jarvis",
+    "email": "pauljarvis229@gmail.com",
+    "phone": "+1 11111111",
+    "img": "https://picsum.photos/id/13/300"
+  },
+  {
+    "id": 4,
+    "name": "RamSwaroop ",
+    "email": "ramswaroop9@gmail.com",
+    "phone": "+91 9999999",
+    "img": "https://picsum.photos/id/14/300"
+  }
+]
