@@ -11,7 +11,7 @@ export default function Home() {
   }
 
   useEffect(() => {
-    fetch("https://pink-seal-kilt.cyclic.app/")
+    fetch("https://real-top-coat-ox.cyclic.app/")
       .then((res) => res.json())
       .then((data) => {
         console.log(data);
